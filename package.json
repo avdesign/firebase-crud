@@ -1,0 +1,22 @@
+{
+  "name": "firebase-crud",
+  "version": "1.0.0",
+  "description": "Firebase CRUD",
+  "main": ".",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avdesign/firebase-crud.git"
+  },
+  "author": "Anselmo Velame",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avdesign/firebase-crud/issues"
+  },
+  "homepage": "https://github.com/avdesign/firebase-crud#readme",
+  "dependencies": {
+    "firebase": "^5.2.0"
+  }
+}
